@@ -5,7 +5,7 @@
 
 ## Introduction to Pashmak Guru
 
-Pashmak Guru is a GitHub organization where we, as a team of learners and enthusiasts, explore the principles of Infrastructure-as-Code (IaC). We use Terraform modules to build infrastructure on Microsoft Azure, to learn various topics and keep them here for people who are interested in learning too. This organization demonstrates how IaC can be applied, albeit not with the polish of a production-ready project.
+Pashmak Guru is a GitHub organization where we, as a team of learners and enthusiasts, explore the principles of Infrastructure-as-Code (IaC). We use Terraform modules to build infrastructure on Microsoft Azure, to learn various topics and keep them here for people who are interested in learning too. This organization demonstrates how IaC can be applied, albeit not with the polish of a production-ready project. See the [Pashmak Guru repositories](https://github.com/orgs/PashmakGuru/repositories).
 
 ## Our Approach
 
