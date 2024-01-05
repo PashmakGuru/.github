@@ -94,4 +94,4 @@ We welcome contributions of all kinds! Feel free to suggest improvements, share 
 
 ## Connect With Us
 
-Join our journey and share your experiences. We’re all learning together and your input is valuable in this shared path. Let's [discuss](https://github.com/PashmakGuru/.github/discussions/categories/general) about your ideas!
+Join our journey and share your experiences. We’re all learning together and your input is valuable in this shared path. Let's [discuss](https://github.com/orgs/PashmakGuru/discussions/categories/general) about your ideas!
